@@ -21,11 +21,11 @@ You can find more details about this project in these documents.
 
 ### As Is Diagram
 
-![Registraion's AS Is Diagram](assets\RegistrationFlow_Old.JPG)
+![Registraion's AS Is Diagram](assets/RegistrationFlow_Old.JPG)
 
 ### To be Diagram , Prof-Of-Concept 1 (POC1)
 
-![Registraion's To Be Diagram](assets\RegistrationFlow_New.JPG)
+![Registraion's To Be Diagram](assets/RegistrationFlow_New.JPG)
 
 
 
