@@ -4,7 +4,7 @@
 
 This project is being developed in collaboration with Dr. Boom Clinic, a General Internal Medicine Clinic located in Surat Thani, Thailand. **The primary goal of the project is to improve the efficiency of the registration and medical history documentation process**, which is currently repetitive and time-consuming. By optimizing these processes, the clinic can enhance workflow efficiency, reduce administrative burdens, and improve overall patient experience.
 
-The main issue of this project revolves around the "One ID Card Smart Hospital" initiative, also known as the "30 บาทรักษาทุกที่" program. When clients use this medical welfare service (which most clients do), the clinic must complete the registration and medical history documentation process for medical expence claim in the NSTDA platform.
+The main issue of this project revolves around the "One ID Card Smart Hospital" initiative, also known as the "30 บาทรักษาทุกที่" program. When clients use this medical welfare service (which most clients do), the clinic must complete the registration and medical history documentation process for medical expense claim in the NSTDA platform.
 
 Currently, the clinic uses a separate program as a database for client records, medicine storage, and appointment scheduling. **This means that for each client using the medical welfare service, clinic staff must manually enter data into two systems, one in the clinic's database and another in the NSTDA platform.**
 
